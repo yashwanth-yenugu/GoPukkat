@@ -4,7 +4,7 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": ["https://yashwanth-yenugu.github.io/GoPukkat/"],
+  "scope": "https://yashwanth-yenugu.github.io/*",
   "start_url": "https://yashwanth-yenugu.github.io/GoPukkat/",
   "icons": [
     {
