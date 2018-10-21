@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    padding:0;
+    margin: 0;
+}
+.mainbody{
+    width:100%;
+    background-image: url("./assets/basic-web/main_ng.png");
+    background-size: 300px;
+    /* min-height: 100vh; */
+    height: auto;
+    background-repeat: repeat;
+}
